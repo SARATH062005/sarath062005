@@ -43,6 +43,7 @@
 | 🧵 [Thread Defect Detection](https://github.com/SARATH062005/Thread_defect_detection) | Detects `loop_fiber` and `protruding_fiber` defects in textile threads using deep learning | ![YOLOv8](https://img.shields.io/badge/YOLOv8-vision-green?style=flat-square&logo=python) ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-blue?style=flat-square&logo=opencv) |
 | 🤖 [M.A.I.D - Autonomous Delivery Robot](https://github.com/SARATH062005/maid-robot) | ROS2-based robot that autonomously delivers juice at events using LiDAR & ultrasonic sensors | ![ROS2](https://img.shields.io/badge/ROS2-Humble-orange?style=flat-square&logo=ros) ![Gazebo](https://img.shields.io/badge/Gazebo-simulation-lightgrey?style=flat-square&logo=github) |
 | 🏭 [Warehouse Delivery Bot (Patented)](https://github.com/SARATH062005/warehouse-bot) | High-payload (500kg) autonomous robot for indoor logistics & delivery tasks | ![SolidWorks](https://img.shields.io/badge/SolidWorks-3DDesign-red?style=flat-square&logo=solidworks) ![ROS2](https://img.shields.io/badge/ROS2-Humble-orange?style=flat-square&logo=ros) |
+| 🧔 [Beard Vise - AI Face Fitting Tool](https://github.com/Nexomation/Beard_vise/tree/main) | AI-powered tool for intelligent beard fitting or styling visualization | ![Python](https://img.shields.io/badge/Python-CV-green?style=flat-square&logo=python) ![OpenCV](https://img.shields.io/badge/OpenCV-FaceDetection-blue?style=flat-square&logo=opencv) |
 
 > 🧑‍🔬 Constantly exploring intersections of AI and automation to solve real-world industrial problems.
 ---
