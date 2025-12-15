@@ -9,7 +9,7 @@
   <a href="https://github.com/sarath062005" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/sarathchandiran" target="_blank">
+  <a href="https://www.linkedin.com/in/sarath-chandiran-m-07a850257/" >
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
@@ -110,7 +110,7 @@
 ## 📬 Contact Me
 
 - 📧 Email: [sarathchandiran@gmail.com](mailto:sarathchandiran@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/sarathchandiran](https://www.linkedin.com/in/sarathchandiran)
+- 💼 LinkedIn: [linkedin.com/in/sarathchandiran](https://www.linkedin.com/in/sarath-chandiran-m-07a850257/)
 
 ---
 
