@@ -12,6 +12,10 @@
   <a href="https://www.linkedin.com/in/sarath-chandiran-m-07a850257/" >
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="https://sarath-chandiran-m.github.io/Portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
+
 </p>
 
 ---
@@ -75,23 +79,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
 </p>
 
----
 
-## 🏆 Trophies & Achievements
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sarath062005&theme=onedark" alt="Trophies" />
-  </a>
-</p>
-
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarath062005&show_icons=true&theme=dark&locale=en" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarath062005&layout=compact&theme=dark" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sarath062005&theme=dark" />
 </p>
 
